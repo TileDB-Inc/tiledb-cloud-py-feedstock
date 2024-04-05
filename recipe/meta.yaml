@@ -1,4 +1,4 @@
-{% set name = "tiledb-cloud" %}
+{% set name = "tiledb-cloud-py" %}
 {% set version = "0.12.4" %}
 
 package:
@@ -33,13 +33,13 @@ requirements:
     - python-dateutil
     - six >=1.10
     - tblib >=1.7,<2.dev0
-    - tiledb >=0.15.2
+    - tiledb-py >=0.15.2
     - typing-extensions
     - urllib3 >=1.26
 
 test:
   imports:
-    - tiledb_cloud
+    - tiledb.cloud
   commands:
     - pip check
   requires:
