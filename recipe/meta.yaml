@@ -46,9 +46,12 @@ test:
     - pip
 
 about:
+  home: https://docs.tiledb.com/cloud/tutorials/start-here
   summary: TileDB Cloud platform Python client
   license: MIT
   license_file: LICENSE
+  doc_url: https://tiledb-inc.github.io/TileDB-Cloud-Py/
+  dev_url: https://github.com/TileDB-Inc/TileDB-Cloud-Py
 
 extra:
   recipe-maintainers:
