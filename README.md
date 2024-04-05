@@ -3,11 +3,15 @@ About tiledb-cloud-py-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/TileDB-Inc/tiledb-cloud-py-feedstock/blob/main/LICENSE.txt)
 
-
+Home: https://docs.tiledb.com/cloud/tutorials/start-here
 
 Package license: MIT
 
 Summary: TileDB Cloud platform Python client
+
+Development: https://github.com/TileDB-Inc/TileDB-Cloud-Py
+
+Documentation: https://tiledb-inc.github.io/TileDB-Cloud-Py/
 
 Current build status
 ====================
