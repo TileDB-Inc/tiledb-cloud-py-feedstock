@@ -15,7 +15,7 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/TileDB-Inc/CI/_build/latest?definitionId=None&branchName=main">
+      <a href="https://dev.azure.com/TileDB-Inc/CI/_build/latest?definitionId=54&branchName=main">
         <img src="https://dev.azure.com/TileDB-Inc/CI/_apis/build/status/tiledb-cloud-py-feedstock?branchName=main">
       </a>
     </td>
