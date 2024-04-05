@@ -1,0 +1,8 @@
+azure:
+  user_or_org: TileDB-Inc
+  project_name: CI
+github:
+  user_or_org: TileDB-Inc
+  branch_name: main
+  tooling_branch_name: main
+upload_on_branch: main
